@@ -51,4 +51,30 @@ This Streamlit app helps users **track, manage, and analyze expenses**, powered 
 pip install -r requirements.txt
 
 # Step 2: Run the app
+
+---
+
+## 📸 Dashboard Preview
+
+### 1. Upload CSV and Add Expense
+![Upload](./dashboard_1_upload.png)
+
+### 2. Expense History Table
+![Expense History](./dashboard_2_history.png)
+
+### 3. Quick Summary
+![Summary](./dashboard_3_summary.png)
+
+### 4. Smart Behavioral Insights
+![Behavioral Insights](./dashboard_4_behavioral.png)
+
+### 5. Filter & Export
+![Filter](./dashboard_5_filter.png)
+
+### 6. Monthly Trends
+![Trends](./dashboard_6_trends.png)
+
+### 7. Category-Wise Pie Chart
+![Pie Chart](./dashboard_7_piechart.png)
+
 streamlit run app.py
